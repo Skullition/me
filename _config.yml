@@ -1,5 +1,5 @@
 # change the followings to match your GitHub username and repo name
-baseurl: "/me" # the name of your GitHub repo
+baseurl: "" # the name of your GitHub repo
 url: "https://skullition.dev" # the url of your github pages
 
 # site information used in page title, meta data etc.
@@ -11,7 +11,7 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: Skullition
-author-bio: false
+author-bio: Software Engineer
 author-image: 279.png  # file must be in the /assets/img/ folder
 
 # navigation menu
@@ -36,7 +36,7 @@ google-scholar: false
 email: false
 
 # footer information
-footer-msg: "Hello! :)"
+footer-msg: "Skullition"
 footer-msg-link: https://github.com/skullition
 
 # Google Analytics
