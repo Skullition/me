@@ -3,5 +3,5 @@ layout: page
 title: Resume
 permalink: resume
 ---
-
-<object data="https://github.com/Skullition/me/files/13185841/Resume.pdf" width="1000" height="1000" type='application/pdf'/>
+[Resume Link](https://docs.google.com/document/d/e/2PACX-1vQRw74RTS6SzitUNKB7SKLzlMBL62SLiUgKuuj2gDXvEjqzzGVATcUCgSeJOsL2CXpBZRch-ICQSfMm/pub)
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQRw74RTS6SzitUNKB7SKLzlMBL62SLiUgKuuj2gDXvEjqzzGVATcUCgSeJOsL2CXpBZRch-ICQSfMm/pub?embedded=true"></iframe>
